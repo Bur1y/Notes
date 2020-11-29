@@ -1,0 +1,9 @@
+<resources>
+        <string name="app_name">NoteHex</string>
+    <string name="action_settings">Настройки</string>
+    <string name="activity_title_home">Заметки</string>
+    <string name="msg_no_notes">Заметки не найдены!</string>
+    <string name="lbl_new_note_title">Новая заметка</string>
+    <string name="lbl_edit_note_title">Редактировать заметку</string>
+    <string name="hint_enter_note">Введите букавы!</string>
+</resources>
